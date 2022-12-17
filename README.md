@@ -12,3 +12,7 @@
 **Затраченное время**
 
 * 30 часов
+
+**Ccылка на проект**
+
+* https://github.com/Andrey-Kordik/russian-travel.git
