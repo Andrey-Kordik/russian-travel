@@ -3,4 +3,19 @@
     display: grid;
     align-self: end;
     margin-bottom: 48px;
+}
+
+@media screen and (max-width: 768px) {
+    .place__website {
+        max-width: 352px;
     }
+}
+
+@media screen and (max-width: 320px) {
+    .place__website {
+        min-width: 288px;
+        margin-bottom: 32px;
+        align-self: start;
+        margin: 0 auto 32px;
+    }
+}

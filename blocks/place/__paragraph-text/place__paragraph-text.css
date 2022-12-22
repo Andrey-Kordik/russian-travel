@@ -2,12 +2,17 @@
     font-weight: 400;
     font-size: 18px;
     line-height: 163%;
+    margin: 0 auto 26px;
 }
+
+.place__paragraph-text:last-child {
+    margin-bottom: 0;
+}
+
 
 @media screen and (max-width: 768px) {
     .place__paragraph-text {
-        font-weight: 400;
         font-size: 16px;
-        line-height: 163%;
+        margin-bottom: 25px;
     }
 }

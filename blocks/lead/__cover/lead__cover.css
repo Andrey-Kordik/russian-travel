@@ -1,0 +1,20 @@
+.lead__cover {
+    object-fit: cover;
+    max-width: 984px;
+    max-height: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 1024px) {
+    .lead__cover {
+        max-width: 90.63%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .lead__cover {
+        max-width: 768px;
+    }
+}

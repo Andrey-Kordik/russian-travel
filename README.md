@@ -15,6 +15,4 @@
 
 **Ccылка на проект**
 
-* https://github.com/Andrey-Kordik/russian-travel.git
-
-проверка связи
+* https://andrey-kordik.github.io/russian-travel/

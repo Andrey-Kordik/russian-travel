@@ -1,34 +1,29 @@
 .intro {
     max-width: 984px;
-    margin: 0 auto;
-    margin-bottom: 94px;
+    margin: 0 auto 94px;
     color: white;
 }
 
 @media screen and (max-width: 1024px) {
     .intro {
-        margin-left: 48px;
-        font-size: 32px;
-        line-height: 35px;
+      max-width: 690px;
+      margin-bottom: 92px;
+      margin-left: 4.69%;
     }
 }
 
 
 @media screen and (max-width: 768px) {
     .intro {
-        margin-left: 24px;
-        margin-right: 24px;
-        font-size: 32px;
-        line-height: 35px;
+      max-width: 720px;
+      margin-bottom: 88px;
     }
 }
 
 
 @media screen and (max-width: 360px) {
     .intro {
-        margin-left: 16px;
-        margin-right: 16px;
-        font-size: 32px;
-        line-height: 35px;
+       max-width: 288px;
+       margin-bottom: 64px;
     }
 }
